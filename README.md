@@ -1,3 +1,9 @@
+# 리액트로 투두리스트 만들기
+
+## 참고영상
+https://youtu.be/sBws8MSXN7A
+Traversy Media
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
